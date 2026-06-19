@@ -1,5 +1,15 @@
-title: Agentic Chatbot with LangGraph emoji: 🤖 colorFrom: blue colorTo: purple sdk: streamlit sdk_
+---
+title: Agentic Chatbot with LangGraph
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.46.1"
+app_file: app.py
+pinned: false
+---
 
+# Nexus AI
 # 🤖 Agentic Chatbot with LangGraph
 
 > A multi-tool, memory-aware, human-in-the-loop AI agent — built with **LangGraph**, **Streamlit**, and **Mistral**.
